@@ -1,13 +1,13 @@
 <div align="center">
   
-# Hi there, I'm Nguyễn Thanh Tân (ChefNguyen) 🚀
+# Hi there, I'm Nguyen Thanh Tan (ChefNguyen) 🚀
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+AI+Enthusiast;Architecting+Real-Time+Data+Pipelines;Building+Scalable+Spring+Boot+Microservices;Full-Stack+Web+%26+Mobile+Development" alt="Typing SVG" /></a>
 
-*Software Developer @ VNU-HCM | Focusing on Scalable Systems, Real-time Analytics & AI Integration.*
+*Software Engineer | Focusing on Scalable Systems & AI Integration.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/tt07https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tt07])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhtan6434@gmail.com)
 
 </div>
 
@@ -62,24 +62,3 @@ I am a Software Developer with a strong passion for blending **Full-Stack Engine
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
-
-### 📂 Featured Projects Architecture
-
-*   🚀 **SmashHUB:** A full-stack powerhouse merging **React 19** with a robust **Java 17 / Spring Boot** microservice backend, heavily leveraging **Supabase** and integrating **Google GenAI SDK** for smart capabilities.
-*   🌊 **RealTimeStreaming & SmartCity:** Heavy-duty Big Data ecosystems using **Python, Apache Kafka, PySpark**, and orchestrated via **Apache Airflow** to process real-time data efficiently.
-*   📱 **EWApp (Employee Workspace):** A seamless mobile experience built with **React Native (Expo)**, strictly typed with **TypeScript**, and backed by a highly secure **Spring Security / Spring WebFlux** backend.
-*   ⚖️ **PatentSystem:** A modern, blazing-fast web app designed with **React 18 & Shadcn UI**, connected to a **Node.js/Prisma** backend with rigid **Zod** schema validations.
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChefNguyen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChefNguyen&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChefNguyen&theme=tokyonight&hide_border=true" />
-</div>
