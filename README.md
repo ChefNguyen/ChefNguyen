@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Nguyen Thanh Tan 🚀
+# Hello World, I'm Nguyen Thanh Tan 🚀
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Focusing+on+Scalable+Systems+%26+AI+Integration." alt="Typing SVG" /></a>
 
