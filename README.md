@@ -23,7 +23,7 @@ I am a Software Developer with a strong passion for blending **Full-Stack Engine
 
 ---
 
-### 🛠️ Arsenal & Tech Stack
+### 🛠️ Tech Stack
 
 **Architecting the Backend & Data Pipelines**
 <p>
